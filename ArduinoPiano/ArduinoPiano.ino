@@ -1,8 +1,11 @@
 /*
  Name:		ArduinoPiano.ino
  Created:	30/04/2019 10:46:32 AM
- Author:	Alex
+ Author:	Grosu Mihai-Alexandru
+			Pescaru Alexandru-Mihai
 */
+
+#include "tipuri.h"
 
 // the setup function runs once when you press reset or power the board
 void setup() {
