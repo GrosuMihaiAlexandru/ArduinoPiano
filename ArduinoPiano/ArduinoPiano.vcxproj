@@ -112,7 +112,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Tone.h" />
     <ClInclude Include="__vm\.ArduinoPiano.vsarduino.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tone.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
