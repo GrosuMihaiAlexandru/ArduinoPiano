@@ -5,8 +5,6 @@
 			Pescaru Alexandru-Mihai
 */
 
-#include "tipuri.h"
-
 // the setup function runs once when you press reset or power the board
 void setup() {
 
